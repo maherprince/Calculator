@@ -9,6 +9,7 @@ namespace MyCalculatorv1
 {
     public partial class MainWindow : Window
     {
+        private int x = 0;
         public MainWindow()
         {
             InitializeComponent();
